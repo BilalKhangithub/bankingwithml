@@ -12,4 +12,4 @@ python-dotenv
 pymysql
 scikit-learn
 seaborn
--e .
+#-e .
